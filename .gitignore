@@ -1,9 +1,12 @@
 *~
+*#
+.DS_Store
 /build
 /Linux-*
 /Darwin-*
-kbuild*
-*#*#
+/src/SeExpr2/parser
+/src/SeExprEditor/generated
+/env*
 CMakeCache.txt
 CMakeFiles/*
 Makefile
@@ -22,3 +25,7 @@ src/SeExpr/generated/*
 src/SeExpr/SeExprParser*.*
 src/SeExpr/y.*
 src/tests/basic
+CMakeLists.txt.user
+CMakeSettings.json
+.vs
+.vscode

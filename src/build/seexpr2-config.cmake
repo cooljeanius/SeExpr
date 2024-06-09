@@ -1,0 +1,5 @@
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/@PROJECT_NAME@-exports.cmake")
+
+set(@PROJECT_NAME@_FOUND TRUE)

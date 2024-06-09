@@ -1,5 +1,0 @@
-##RenderMan RIB
-version 3.04
-Sides 2
-Display "test.tif" "it" "rgba"
-Option "searchpath" "shader" ["."]
